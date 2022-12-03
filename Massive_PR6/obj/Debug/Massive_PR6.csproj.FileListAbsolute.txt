@@ -1,0 +1,8 @@
+D:\VisualProjects\Massive_PR6\Massive_PR6\bin\Debug\Massive_PR6.exe.config
+D:\VisualProjects\Massive_PR6\Massive_PR6\bin\Debug\Massive_PR6.exe
+D:\VisualProjects\Massive_PR6\Massive_PR6\bin\Debug\Massive_PR6.pdb
+D:\VisualProjects\Massive_PR6\Massive_PR6\obj\Debug\Massive_PR6.csproj.AssemblyReference.cache
+D:\VisualProjects\Massive_PR6\Massive_PR6\obj\Debug\Massive_PR6.csproj.SuggestedBindingRedirects.cache
+D:\VisualProjects\Massive_PR6\Massive_PR6\obj\Debug\Massive_PR6.csproj.CoreCompileInputs.cache
+D:\VisualProjects\Massive_PR6\Massive_PR6\obj\Debug\Massive_PR6.exe
+D:\VisualProjects\Massive_PR6\Massive_PR6\obj\Debug\Massive_PR6.pdb
